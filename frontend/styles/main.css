@@ -200,4 +200,8 @@ header .btn-get-started:hover {
 .section-testimonial-content .btn-need-help:hover {
   background-color: #FAFAFA;
   color: #c3c3c3;
+}
+
+.section-footer a {
+  color: #071C4D;
 }/*# sourceMappingURL=main.css.map */
